@@ -1,6 +1,7 @@
 {
   "name": "vulcan-seed",
   "version": "0.0.0",
+  "creationDate": "2024-03-10T10:00:00Z",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
